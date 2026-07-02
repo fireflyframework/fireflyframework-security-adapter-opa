@@ -7,12 +7,12 @@
     <parent>
         <groupId>org.fireflyframework</groupId>
         <artifactId>fireflyframework-parent</artifactId>
-        <version>26.06.03</version>
+        <version>26.07.01</version>
         <relativePath/>
     </parent>
 
     <artifactId>fireflyframework-security-adapter-opa</artifactId>
-    <version>26.06.03</version>
+    <version>26.07.01</version>
     <packaging>jar</packaging>
 
     <name>Firefly Framework - Security OPA Adapter</name>
